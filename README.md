@@ -5,7 +5,7 @@ Small indie dev
 ---------------
 
 * 🌍  I'm based in Poland
-* 🚀  I'm currently working on [DEADLIST](http://patched.cc/deadlist)
+* 🚀  I'm currently working on [DEADLIST](https://patched.cc/games/deadlist/deadlist)
 
 <a href="https://www.github.com/sirpatch" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sirpatch?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a><a href="https://www.twitch.tv/livesirpatch" target="_blank" rel="noreferrer"><img
